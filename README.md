@@ -3,7 +3,7 @@
 Current Location Fetch And Display Application
 
 
-In these app you can use user's current location and display it textview
+In these app you can use user's current location and display it into textview
 
 Synopsis:
 
